@@ -5,9 +5,6 @@ jQuery HoverCrossfade
 
 The HoverCrossfade plugin for jQuery is made for changing default hover effects of links or buttons. It's based on the "background-image" attribute and simply crossfades between two images. When applying the plugin to an element, two additional containers are created in order to make the effect work. One container contains the hover image while the other element acts as clickable area. You can set the delays for fading in and out in the options of the plugin. The plugin was made under the condition that if JavaScript is turned off, the usual CSS hover effects will show up.
 
-## Demo
-<a href="http://matthias-schuetz.github.com/jquery.hovercrossfade/">Click here for a live demonstration.</a>
-
 ## Usage
 
 Just load the file "jquery.hovercrossfade.js" together with the jQuery library. You can apply the crossfade effect to any item you want.

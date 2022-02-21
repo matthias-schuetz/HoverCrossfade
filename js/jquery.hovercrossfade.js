@@ -1,7 +1,7 @@
 /**
  * jquery.hovercrossfade.js
  * A jQuery plugin that replaces the default CSS mouse hover of a link with an image crossfade hover.
- * Matthias Schuetz, http://matthiasschuetz.com
+ * Matthias Schuetz, https://matthias-schuetz.github.io/
  *
  * Copyright (C) Matthias Schuetz
  * Free to use under the MIT license
